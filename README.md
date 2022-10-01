@@ -1,9 +1,9 @@
 ### Hi there, I´m Juan Martin 👋
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/juanmartinsilva/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/juanmarsilva" alt="Instagram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
-  </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmartinsilva/)](https://www.linkedin.com/in/juanmartinsilva/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5492324498482&text=Hola!)](https://api.whatsapp.com/send?phone=5492324498482&text=Hola!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmartinsilva74@gmail.com)](mailto:juanmartinsilva74@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:juanmar_silva@hotmail.com)](mailto:juanmar_silva@hotmail.com)
 
 ## About Me
 
