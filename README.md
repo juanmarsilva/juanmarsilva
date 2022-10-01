@@ -1,11 +1,4 @@
-### Hi there, I´m Juan Martin 👋
-
-![icono](https://user-images.githubusercontent.com/97624280/193427294-19bfa195-9ba9-4b49-bd93-8a37768b7072.png?style=size=100px)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmartinsilva/)](https://www.linkedin.com/in/juanmartinsilva/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5492324498482&text=Hola!)](https://api.whatsapp.com/send?phone=5492324498482&text=Hola!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmartinsilva74@gmail.com)](mailto:juanmartinsilva74@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:juanmar_silva@hotmail.com)](mailto:juanmar_silva@hotmail.com)
+![Group 1](https://user-images.githubusercontent.com/97624280/193429600-0fdde6a5-1d5b-43ab-b5c2-04d7eff01464.png)
 
 ## About Me
 
