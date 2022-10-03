@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 I am a Full Stack Web Developer. Preferably oriented to the Front-End. Which is something that fascinates me because I can see what I am designing and developing at the moment.
+👨‍💻 I am a Full Stack Web Developer. Preferably oriented to the Front-End. Which is something that fascinates me because I can see what I am designing and developing at the moment. I feel comfortable working in the Back End too, so my idea is to continue growing in that area as well..
 
 💬 I consider myself a very committed person, with initiative and very curious. I like to work in a team, I believe a lot in collaborative learning. I like to solve problems of all kinds.
 
