@@ -1,4 +1,4 @@
-![Group 1 (1)](https://user-images.githubusercontent.com/97624280/193603434-a54e0f06-d8f3-424b-bc83-ad04b194c144.png)
+![Group 1 (2)](https://user-images.githubusercontent.com/97624280/193604565-94a39005-2b5e-4f1c-a4fc-5a06240a3e96.png)
 
 ## About Me
 
