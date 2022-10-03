@@ -16,7 +16,7 @@
 
 ![Group 2](https://user-images.githubusercontent.com/97624280/193619212-d0784e41-0ea1-4502-b629-85a664d66aac.png)
 
-[![Juan Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmarsilva&show_icons=true&title_color=ffffff&icon_color=3a5a40&text_color=daf7dc&bg_color=151515))](https://github.com/anuraghazra/github-readme-stats)
+[![Juan Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmarsilva&show_icons=true&title_color=ffffff&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 
@@ -34,19 +34,3 @@
     <img alt="instagram" width="40px" src="https://user-images.githubusercontent.com/97624280/193626016-2ef799aa-7972-4626-8b40-2c6f8312b773.png">
   </a>
 </div>
-
-
-
-<!--
-**juanmarsilva/juanmarsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
