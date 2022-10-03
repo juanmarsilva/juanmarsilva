@@ -16,7 +16,11 @@
 
 ![Group 2](https://user-images.githubusercontent.com/97624280/193619212-d0784e41-0ea1-4502-b629-85a664d66aac.png)
 
-[![Juan Martin GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmarsilva&show_icons=true&title_color=ffffff&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmarsilva&show_icons=true&title_color=ffffff&theme=dark&count_private=true" />
+  </a>
+</div>
 
 ## Contact Me
 
